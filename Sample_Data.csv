@@ -1,0 +1,9 @@
+Name,Age,Email,Country,Subscription_Status
+Prakhar,23,prakhar@example.com,India,Active
+Anjali,,anjali@example.com,India,Inactive
+Ravi,30,,USA,Active
+Simran,27,simran@example.com,UK,
+Amit,35,amit@example.com,India,Active
+Anjali,28,anjali28@example.com,India,Active
+Ravi,30,,USA,Active
+,22,unknown@example.com,Canada,Inactive
